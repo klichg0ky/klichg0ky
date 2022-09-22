@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi, I am a Frontend Developer (React Native/React)! 👋
 
+## 🔗 Contact me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/klichg0ky)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/akylbek-temirbekov-631104177/)
+
+
+- :mag_right: I’m looking for a frontend developer job.
+- I have 4 years commercial experience.
 <!--
 **klichg0ky/klichg0ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
